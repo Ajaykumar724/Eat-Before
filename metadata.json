@@ -1,0 +1,6 @@
+{
+  "name": "Eat Before — Instant Fresh Kitchen Protocol",
+  "description": "Stop throwing groceries away. Track fridge, crisper, and pantry freshness in under 5 seconds and save ₹4,500+ monthly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
