@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/1573462b-54f9-4fcc-adc7-d50c66a01219
+View your Live app: https://eat-before-flame.vercel.app/
 
 ## Run Locally
 
